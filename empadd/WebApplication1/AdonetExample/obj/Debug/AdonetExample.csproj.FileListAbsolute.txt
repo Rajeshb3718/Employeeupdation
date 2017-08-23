@@ -1,0 +1,7 @@
+C:\Users\prana\Documents\Kudvenakttutorials\WebApplication1\AdonetExample\bin\AdonetExample.dll.config
+C:\Users\prana\Documents\Kudvenakttutorials\WebApplication1\AdonetExample\bin\AdonetExample.dll
+C:\Users\prana\Documents\Kudvenakttutorials\WebApplication1\AdonetExample\bin\AdonetExample.pdb
+C:\Users\prana\Documents\Kudvenakttutorials\WebApplication1\AdonetExample\obj\Debug\AdonetExample.csprojResolveAssemblyReference.cache
+C:\Users\prana\Documents\Kudvenakttutorials\WebApplication1\AdonetExample\obj\Debug\AdonetExample.dll
+C:\Users\prana\Documents\Kudvenakttutorials\WebApplication1\AdonetExample\obj\Debug\AdonetExample.pdb
+C:\Users\prana\Documents\Kudvenakttutorials\WebApplication1\AdonetExample\bin\Oracle.ManagedDataAccess.dll
